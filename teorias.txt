@@ -1,0 +1,28 @@
+<HTML
+
+header: tag semântica que indica um cabeçalho para a página
+
+nav: tag que indica a área de navegação do elemento, no caso desse projeto, usado no header. E dentro dessa tag pode se ter outras tags, nesse caso foi usado uma lista não ordenada (<ul>).
+
+#!= O hash (#) é usado em URLs para se referir a uma seção específica de uma página da Web, enquanto o ponto de exclamação (!) indica que o conteúdo que segue o hash é gerenciado por JavaScript. Essa combinação (#!) é frequentemente usada em aplicações web baseadas em JavaScript para implementar rotas e navegação sem recarregar a página inteira. />
+
+CSS{
+
+padding: ao colocar "0" e depois "*px" na propriedade "padding", os elementos irão se comportar como uma centralização dos elementos;
+
+gap: A propriedade CSS "gap" é usada para definir o espaçamento entre as células de uma grade ou flex container. Ela define a distância entre os elementos que compõem uma grade ou flex container, incluindo colunas, linhas e os próprios itens.
+
+hover: seletor de animação de transição de um ou mais elementos imbutidos.
+
+webkit:As propriedades com prefixos como "-webkit-", "-moz-", "-ms-" e "-o-" no CSS são usadas para fornecer suporte a recursos experimentais em navegadores da web. Esses prefixos indicam que a propriedade ainda não é um padrão oficial do CSS e está sujeita a mudanças no futuro.
+Esses prefixos são usados principalmente para fornecer suporte a recursos CSS em navegadores específicos. Por exemplo, "-webkit-" é usado em navegadores baseados em WebKit, como o Google Chrome e o Safari da Apple
+
+visibility: O valor "visible" (visível) faz com que o elemento seja exibido normalmente na página da web. Já o valor "hidden" (oculto) faz com que o elemento não seja exibido, mas ainda ocupa o espaço na página como se estivesse presente.
+A propriedade "visibility" é frequentemente usada em conjunto com outras propriedades CSS, como "display" e "opacity", para criar efeitos de animação e transição em elementos de página.
+
+line-height: A propriedade CSS "line-height" é usada para definir a altura da linha de um bloco de texto. Essa propriedade define a distância vertical entre as linhas de texto e é medida em unidades de comprimento ou em uma proporção em relação ao tamanho da fonte.
+
+}
+
+
+
